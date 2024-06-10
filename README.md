@@ -1,0 +1,1 @@
+# Curva-Quadr-tica
